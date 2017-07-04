@@ -1,23 +1,23 @@
-# Risk of Pattern Hair Loss
+# Risk of Male Pattern Hair Loss
 
-![alt text](http://www.ozonetherapymalaysia.com/wp-content/uploads/hearthealth.jpg)
+![alt text](http://images.onhealth.com/images/slideshow/hair_scalp_s13_gray_hair.jpg)
 
 ## Background
 
-Cardiovascular disease (CVD) is the leading cause of death globally<sup>1</sup>. It is estimated that over 90% of CVD is preventable through strategies such as healthy eating, regular exercise and alcohol intake reduction<sup>2</sup>. A class of lipid-lowering medications called **statins** have been shown to reduce CVD in individuals who are at high risk — they work by inhibiting an enzyme called HMG-CoA that is responsible for producing cholesterol (a type of lipid)<sup>3</sup>. Genetic differences in simvastatin metabolization have been shown to affect myopathy (muscle damage) risk and are covered in this analysis<sup>4</sup>.
+Pattern hair loss is hair loss that affects the top of the scalp. Known as **male pattern hair loss** in males and **female pattern hair loss** in females, hair loss for males appears as a reciding hairline while for females hair thinning is more common<sup>1</sup>. In males, pattern hair loss is attributed to a combination of genetics and levels of the hormone dihydrotestosterone while in females the mechanism is unclear<sup>1</sup>. Treatments include minoxidil, finasteride, hair transplant surgery, natural remedies, and acceptance. This genomic analysis focuses on **male pattern hair loss**. This genomic analysis is not designed for female genetic analysis.
 
 ## Where does this Genome App look?
 
-This analysis looks at your genetic information presented at the rs4149056 single-nucleotide polymorphism — located on the SLCO1B1 gene of chromosome 12.
+This analysis looks at your genetic information presented at the rs6152 single-nucleotide polymorphism — located on the X chromosome.
 
 
 ## Medical Disclaimer
 
-Your results and genetic information from this analysis are not intended to be a substitute for professional medical advice, diagnoses, and treatment. The medical information on this site is provided as an information resource only, and is not to be used or relied on for any diagnostic or treatment purposes. This information is not intended to diagnose, treat, cure, or prevent any disease and all medical-related inquiries should be reviewed with a professional licensed healthcare provider.
+Your results and genetic information from this analysis are not intended to be a substitute for professional medical advice, diagnoses, and treatment. The medical information on this site is provided as an information resource only, and is not to be used or relied on for any diagnostic or treatment purposes. This information is not intended to diagnose, treat, cure, or prevent any disease and all medically-related inquiries should be reviewed with a professional licensed healthcare provider.
 
 
 ###### Sources
-###### 1. Mendis, Shanthi, Pekka Puska, and Bo Norrving. Global atlas on cardiovascular disease prevention and control. World Health Organization, 2011.
+###### 1. Ellis, Justine A., Margaret Stebbing, and Stephen B. Harrap. "Polymorphism of the androgen receptor gene is associated with male pattern baldness." Journal of investigative dermatology 116.3 (2001): 452-455.
 ###### 2. McGill, Henry C., C. Alex McMahan, and Samuel S. Gidding. "Preventing heart disease in the 21st century." Circulation 117.9 (2008): 1216-1227.
 ###### 3. Taylor, Fiona, et al. "Statins for the primary prevention of cardiovascular disease." Cochrane database syst rev 1.1 (2011).
 ###### 4. https://www.pharmgkb.org/guideline/PA166105005
