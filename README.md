@@ -8,7 +8,7 @@ Pattern hair loss is hair loss that affects the top of the scalp. Known as **mal
 
 ## Where does this Genome App look?
 
-This analysis looks at your genetic information presented at the rs6152 single-nucleotide polymorphism — located on the X chromosome.
+This analysis looks at your genetic information presented at the rs6152 single-nucleotide polymorphism — located on the X chromosome.<sup>2</sup>
 
 
 ## Medical Disclaimer
@@ -18,3 +18,4 @@ Your results and genetic information from this analysis are not intended to be a
 
 ###### Sources
 ###### 1. Ellis, Justine A., Margaret Stebbing, and Stephen B. Harrap. "Polymorphism of the androgen receptor gene is associated with male pattern baldness." Journal of investigative dermatology 116.3 (2001): 452-455.
+###### 2. https://www.ncbi.nlm.nih.gov/SNP/snp_ref.cgi?searchType=adhoc_search&type=rs&rs=rs6152
