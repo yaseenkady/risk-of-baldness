@@ -4,7 +4,7 @@
 
 ## Background
 
-Pattern hair loss is hair loss that affects the top of the scalp. Known as **male pattern hair loss** in males and **female pattern hair loss** in females, hair loss for males appears as a reciding hairline while for females hair thinning is more common<sup>1</sup>. In males, pattern hair loss is attributed to a combination of genetics and levels of the hormone dihydrotestosterone while in females the mechanism is unclear<sup>1</sup>. Treatments include minoxidil, finasteride, hair transplant surgery, natural remedies, and acceptance. This genomic analysis focuses on **male pattern hair loss**. This genomic analysis is not designed for female genetic analysis.
+Pattern hair loss is hair loss that affects the top of the scalp. Known as **male pattern hair loss** in males and **female pattern hair loss** in females, hair loss for males appears as a reciding hairline while for females hair thinning is more common.<sup>1</sup> In males, pattern hair loss is attributed to a combination of genetics and levels of the hormone dihydrotestosterone while in females the mechanism is unclear.<sup>1</sup> Treatments include minoxidil, finasteride, hair transplant surgery, natural remedies, and acceptance. This genomic analysis focuses on **male pattern hair loss**. This genomic analysis is not designed for female genetic analysis.
 
 ## Where does this Genome App look?
 
