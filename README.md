@@ -18,6 +18,3 @@ Your results and genetic information from this analysis are not intended to be a
 
 ###### Sources
 ###### 1. Ellis, Justine A., Margaret Stebbing, and Stephen B. Harrap. "Polymorphism of the androgen receptor gene is associated with male pattern baldness." Journal of investigative dermatology 116.3 (2001): 452-455.
-###### 2. McGill, Henry C., C. Alex McMahan, and Samuel S. Gidding. "Preventing heart disease in the 21st century." Circulation 117.9 (2008): 1216-1227.
-###### 3. Taylor, Fiona, et al. "Statins for the primary prevention of cardiovascular disease." Cochrane database syst rev 1.1 (2011).
-###### 4. https://www.pharmgkb.org/guideline/PA166105005
